@@ -10,11 +10,8 @@ This project is a Streamlit web application that uses OpenAI's GPT-4o to generat
 
 ## Setup
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/OrenGrinker/gpt4oimage.git
-    cd gpt4oimage
-    ```
+1. Clone this repository:
+  
 
 2. Install the required packages:
     ```bash
@@ -34,10 +31,4 @@ This project is a Streamlit web application that uses OpenAI's GPT-4o to generat
 - Enter a prompt for image description.
 - Upload an image and get the description.
 
-## Contributing
 
-Feel free to open issues or submit pull requests for any improvements or bug fixes.
-
-## License
-
-This project is licensed under the MIT License.
