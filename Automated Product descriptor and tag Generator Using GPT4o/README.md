@@ -1,4 +1,4 @@
-# Image Description using GPT-4o
+# Product Description and Tags Generation using GPT-4o
 
 This project is a Streamlit web application that uses OpenAI's GPT-4o to generate descriptions for uploaded images.
 
